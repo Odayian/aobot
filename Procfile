@@ -1,1 +1,1 @@
-web: node ao-killboard.js
+worker: node ao-killboard.js
